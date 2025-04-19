@@ -1,4 +1,4 @@
-# AadiAI R-VAE
+# AadiAI Training
 
 AadiAI R-VAE (Reconstruction Variational Autoencoder) is a hybrid architecture that fuses text and image representations to generate high-resolution images from a shared latent space. This architecture enables flexible training for applications in 3D texture generation, style transfer, creative generation, and more.
 
@@ -9,7 +9,7 @@ AadiAI R-VAE (Reconstruction Variational Autoencoder) is a hybrid architecture t
 ## 📁 Project Structure
 
 ```
-AadiAI-RVAE/
+AadiAI-Training/
 ├── checkpoints/                 # Saved model weights
 ├── configs/
 │   └── train_config.yaml        # Training hyperparameters and settings
