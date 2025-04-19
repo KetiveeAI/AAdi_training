@@ -48,8 +48,8 @@ AadiAI-Training/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ketivee-org/AadiAI-RVAE.git
-cd AadiAI-RVAE
+git clone https://github.com/ketivee-org/AadiAI-Training.git
+cd AadiAI-Training
 ```
 
 ### 2. Create and Activate Virtual Environment
