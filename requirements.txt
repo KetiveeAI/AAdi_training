@@ -1,0 +1,12 @@
+torch>=2.0.0
+diffusers>=0.20.0
+transformers>=4.30.0
+opencv-python
+lpips
+pandas
+numpy
+torchvision
+matplotlib
+einops
+gradio  # For demo
+fiftyone>=0.22.0  # For dataset management
